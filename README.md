@@ -1,6 +1,6 @@
 # 2020 CCF BDCI 
 
-企业非法集资风险预测
+[企业非法集资风险预测](https://www.datafountain.cn/competitions/469/)
 
 
 ## Note
