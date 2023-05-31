@@ -5,4 +5,4 @@
 
 ## Note
 
-先运行`tfidf_decom.py`生成`tfidf_decomposition.csv`， 再运行`Final.ipynb`.
+先运行`tfidf_decom.py`生成`tfidf_decomposition.csv`， 再运行`企业非法集资风险预测.ipynb`.
